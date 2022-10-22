@@ -1,7 +1,7 @@
 # Tanishq-clone
 
 #output
-TECH STACK:
+# TECH STACK:
 HTML
 CSS
 JAVASCRIPT
