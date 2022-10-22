@@ -17,4 +17,5 @@ after entering the details signup option will be there once you click your accou
 Once you create your account you need to enter your id and password you will directly go the main website page  
 ![login tanishq](https://user-images.githubusercontent.com/77868484/196020792-5130d764-fa31-41dc-9b42-286aaa00ae41.jpg)
 # cart output
+In this cart page if you like the product or if you want to buy the product on that product will be avalible in cart page this is the specification of this page.  
 ![cart tanishq](https://user-images.githubusercontent.com/77868484/196020915-eb701d2c-7222-4833-b14c-d03a0bfb1d08.jpg)
