@@ -8,7 +8,7 @@
 Output.
 ###
 Presentation video:
-https://drive.google.com/file/d/1J1k0ydMlsih8FIycle42e87JT8rSlQy8/view?usp=sharing
+$ https://drive.google.com/file/d/1J1k0ydMlsih8FIycle42e87JT8rSlQy8/view?usp=sharing
 
 In this Page when ever you visit this website or you want to buy something on that time you need to signup in this page and enter your email address and phone number 
 after entering the details signup option will be there once you click your account will be created 
