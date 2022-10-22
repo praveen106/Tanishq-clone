@@ -1,11 +1,9 @@
 # Tanishq-clone
-
-#output
 # TECH STACK:
 HTML
 CSS
 JAVASCRIPT
-
+#Output
 #Presentation video
 https://drive.google.com/file/d/1J1k0ydMlsih8FIycle42e87JT8rSlQy8/view?usp=sharing
 
