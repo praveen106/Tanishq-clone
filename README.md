@@ -14,7 +14,7 @@ In this Page when ever you visit this website or you want to buy something on th
 after entering the details signup option will be there once you click your account will be created 
 ![Tanishq signup](https://user-images.githubusercontent.com/77868484/196020630-8523f96b-d5fd-437d-a3ed-d038cf9d4091.jpg)
 
-#login output page
+## login output page
 Once you create your account you need to enter your id and password you will directly go the main website page  
 ![login tanishq](https://user-images.githubusercontent.com/77868484/196020792-5130d764-fa31-41dc-9b42-286aaa00ae41.jpg)
 # cart output
